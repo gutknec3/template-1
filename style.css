@@ -14,8 +14,8 @@ header, main, footer {
         
 }
 
-header, main h1 {
-        color:white;
+header,  h1 {
+        color:purple;
 }
 
 a, a:visited {
