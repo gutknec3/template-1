@@ -14,8 +14,8 @@ header, main, footer {
         
 }
 
-header, main h1 {
-        color:green;
+header, article h1, main h1 {
+        color:indigo;
 }
 
 a, a:visited {
@@ -24,7 +24,7 @@ a, a:visited {
 }
 
 a:hover {
-        color: yellow;
+        color: violet;
         text-decoration: underline;
 }
 
@@ -44,7 +44,7 @@ a:hover {
         height:60px;
         width:110px;
         text-align:center;
-        font-size:13px;
+        font-size:16px;
         border: 3px dotted turquoise;
         border-radius:60px;
 }
@@ -60,7 +60,7 @@ a:hover {
         list-style: none;
         float:left;
         margin-left:0;
-        border-right: 5px dashed #c0c0c0;
+        border-right: 5px dashed green;
         }
         
 #menu li {
