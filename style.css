@@ -14,7 +14,7 @@ header, main, footer {
         
 }
 
-header: h1 {
+header, main, h1 {
         color:purple;
 }
 
