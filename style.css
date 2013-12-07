@@ -18,6 +18,10 @@ header, article h1, main h1 {
         color:indigo;
 }
 
+article h4, main h4{
+        color: magenta ;
+}
+
 a, a:visited {
         color:#c0c0c0;
         text-decoration:none;
